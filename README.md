@@ -1,13 +1,13 @@
 # Andiara's profile
 ## Welcome!
 
-😄 I'm 25 years old, from Campinas/SP - Brazil! 
-⚡ I enjoy learning about programming, gaming and studying new languages in my spare time. 
+😄 I'm 25 years old, from Campinas/SP - Brazil!  
+⚡ I enjoy learning about programming, gaming and studying new languages in my spare time.  
 
-🖥️ I’m currently learning about web development
-🖥️ Learning to program Markdown
-🖥️ I have a basic knowledge on C and Python
-🖥️ I'm also getting started on RAD this semester
+🖥️ I’m currently learning about web development  
+🖥️ Learning to program Markdown  
+🖥️ I have a basic knowledge on C and Python  
+🖥️ I'm also getting started on RAD this semester  
 
    There's a fun fact about me: I work as a interior designer since 2022 and my goal is to get into the IT department of the big industries related to personalized furniture.
 
