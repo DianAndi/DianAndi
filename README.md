@@ -1,15 +1,26 @@
-# Andiara's profile
-## Welcome!
+## 👋 Hey there! I'm Andiara  
 
 😄 I'm 25 years old, from Campinas/SP - Brazil!  
-⚡ I enjoy learning about programming, gaming and studying new languages in my spare time.  
+⚡ Passionate about technology, gaming, and learning new languages.  
 
-🖥️ I’m currently learning about web development  
-🖥️ Learning to program Markdown  
-🖥️ I have a basic knowledge on C and Python  
-🖥️ I'm also getting started on RAD this semester  
+### 💻 What I'm Working On  
+- 🎯 Transitioning from **Interior Design** to **Software Development**, aiming to bring IT innovation to the personalized furniture industry.  
+- 🖥️ Currently learning **Web Development** (HTML, CSS, JavaScript)  
+- 🖥️ Exploring **Rapid Application Development (RAD)**  
+- 🖥️ Basic knowledge of **C and Python**  
 
-   There's a fun fact about me: I work as a interior designer since 2022 and my goal is to get into the IT department of the big industries related to personalized furniture.
+### 📚 Technologies & Topics I've Studied  
+- 💾 **Computer Networks** (Fundamentals, protocols, and architectures)  
+- 🗄️ **Databases** (SQL basics, relational databases)  
+- 🏗️ **Computer Architecture** (Hardware fundamentals, memory, processing)  
+- 🖥️ **Computational Thinking** (Problem-solving, logic, and algorithms)  
+- 💡 **Artificial Intelligence** (Basics of AI and Machine Learning - IT Valley School Bootcamp)  
+- 🎓 **Introduction to Computers - Microsoft** to strengthen my IT fundamentals  
+
+### 🚀 Fun Fact  
+I’ve been working as an **Interior Designer since 2022**, and now I'm diving into the IT world to create innovative solutions for custom furniture!  
+
+
 
 <!--
 **DianAndi/DianAndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
