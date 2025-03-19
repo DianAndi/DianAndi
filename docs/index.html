@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Curriculo </title>
 </head>
+
 <body>
     <h1>Bem vindo!</h1>
     <h2>Eu sou a Andiara!</h2>
@@ -15,5 +16,23 @@
       <li> Conhecimento em Python </li>
  	<li> Conhecimento em Java </li>
  	<li> C básico </li>
+</body>
+
+<body>
+    <form>
+        <fieldset>
+            <legend>Formulário de contato</legend>
+            <label for="name">Nome</label>
+            <input type="text" name="name" id="name" required placeholder="Digite seu nome completo" />
+            <label for="email">E-mail</label>
+            <input type="email" name="email" id="email" required placeholder="Digite um e-mail válido" />
+            <label for="subject">Assunto</label>
+            <input type="text" name="subject" id="subject" />
+            <label for="message">Mensagem</label>
+            <textarea name="message" id="message" rows="7" required maxlength="1000" minlength="20"
+                placeholder="Conte-nos tudo"></textarea>
+            <button type="submit" class="btn">Enviar</button>
+        </fieldset>
+    </form>
 </body>
 </html>
