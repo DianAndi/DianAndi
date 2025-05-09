@@ -7,7 +7,7 @@
 - 🎯 Transitioning from **Interior Design** to **Software Development**, aiming to bring IT innovation to the personalized furniture industry.  
 - 🖥️ Currently learning **Web Development** (HTML, CSS, JavaScript)  
 - 🖥️ Exploring **Rapid Application Development (RAD)**  
-- 🖥️ Basic knowledge of **C and Python**  
+- 🖥️ Basic knowledge of **C, Python and Java**  
 
 ### 📚 Technologies & Topics I've Studied  
 - 💾 **Computer Networks** (Fundamentals, protocols, and architectures)  
